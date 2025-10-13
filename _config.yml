@@ -10,11 +10,14 @@ plugins:
   - jekyll-seo-tag
 
 # Permalink structure
-permalink: /:title/
+permalink: /:categories/:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
 
-# Social links (optional)
+# Social links
 github_username: artezchapman
 linkedin_username: artezchapman
+
+# Show excerpts on home page
+show_excerpts: true

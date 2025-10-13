@@ -1,6 +1,6 @@
-# Blog
+# Artez Chapman's Blog
 
-My technical blog documenting cloud infrastructure, DevOps, and AI exploration.
+Technical blog documenting cloud infrastructure, DevOps, and infrastructure learning.
 
 **Live Site:** [blog.artezchapman.com](https://blog.artezchapman.com)
 
